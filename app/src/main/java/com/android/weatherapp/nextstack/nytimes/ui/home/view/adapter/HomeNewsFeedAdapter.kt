@@ -8,7 +8,7 @@ import com.android.weatherapp.nextstack.nytimes.ui.home.model.NewsResponseModel
 
 class HomeNewsFeedAdapter(private val onClick: (newsDetail: NewsResponseModel.ResultsItem) -> Unit) :
     RecyclerView.Adapter<HomeNewsFeedAdapter.HomeNewsFeedViewHolder>() {
-
+df
     private lateinit var newsFeed: NewsResponseModel
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): HomeNewsFeedViewHolder {
