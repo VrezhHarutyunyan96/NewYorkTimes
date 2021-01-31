@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Text Size-->
+    <dimen name="text_size_S_1">12sp</dimen>
+    <dimen name="text_size_S_2">14sp</dimen>
+    <dimen name="text_size_S_3">15sp</dimen>
+    <dimen name="text_size_M">16sp</dimen>
+    <dimen name="text_size_L">18sp</dimen>
+    <dimen name="text_size_X">20sp</dimen>
+    <dimen name="text_size_XL">24sp</dimen>
+
+<!--    Margins-->
+    <dimen name="margin_MIN">4dp</dimen>
+    <dimen name="margin_XS">10dp</dimen>
+    <dimen name="margin_S">12dp</dimen>
+    <dimen name="margin_M">14dp</dimen>
+
+    <!--    Padding`s-->
+    <dimen name="padding_L">16dp</dimen>
+    <dimen name="padding_XXL_1">26dp</dimen>
+
+    <dimen name="image_height">70dp</dimen>
+    <dimen name="image_width">70dp</dimen>
+</resources>
